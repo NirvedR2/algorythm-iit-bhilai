@@ -7,6 +7,20 @@
     "github": "Divyanshu-Dhudhuani"
   },
   {
+    "name": "Mukesh",
+    "id": "B26CS025",
+    "folder": "Mukesh-B26CS025-Mukesh-K-Kumar",
+    "page": "students/Mukesh-B26CS025-Mukesh-K-Kumar/index.html",
+    "github": "Mukesh-K-Kumar"
+  },
+  {
+    "name": "Nirved_Ramoliya",
+    "id": "B26CS026",
+    "folder": "Nirved_Ramoliya-B26CS026-NirvedR2",
+    "page": "students/Nirved_Ramoliya-B26CS026-NirvedR2/index.html",
+    "github": "NirvedR2"
+  },
+  {
     "name": "Swarnadip",
     "id": "12342210",
     "folder": "Swarnadip-12342210-Swarnadip-Kar",
@@ -19,12 +33,5 @@
     "folder": "Swastik-B26DS037-swastiksinghdun",
     "page": "students/Swastik-B26DS037-swastiksinghdun/index.html",
     "github": "swastiksinghdun"
-  },
-  {
-    "name": "Mukesh",
-    "id": "B26CS025",
-    "folder": "Mukesh-B26CS025-Mukesh-K-Kumar",
-    "page": "students/Mukesh-B26CS025-Mukesh-K-Kumar/index.html",
-    "github": "Mukesh-K-Kumar"
   }
 ]
